@@ -1,1 +1,6 @@
-
+ gcc -g p2original.c 
+ ./a.out
+enter the a value:4
+enter the a value:5
+enter the a value:6
+SCALENE 
