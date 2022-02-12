@@ -9,7 +9,7 @@ int input_side()
 int check_scalene(int a,int b,int c)
 {
   
-  if(a!=b && b!=c)
+  if(a!=b && b!=c && a!=c)//complete the condition
   return 0;
   else
   return 1;

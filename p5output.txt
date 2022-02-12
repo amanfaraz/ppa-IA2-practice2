@@ -1,1 +1,6 @@
-
+ gcc -g p5original.c 
+ ./a.out
+Enter a number: 
+39
+Enter a number: 
+18
