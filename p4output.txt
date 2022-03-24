@@ -1,1 +1,8 @@
+ gcc -g p5original.c 
+ ./a.out
+Enter a number: 
+25
+Enter a number: 
+50
+Highest Common Factor of 25 and 50 is 25 
 
